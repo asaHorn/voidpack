@@ -1,0 +1,6 @@
+{
+  "config": {},
+  "biomes": "#voidpack:has_structure/no_spawn",
+  "spawn_overrides": {},
+  "type": "minecraft:desert_pyramid"
+}

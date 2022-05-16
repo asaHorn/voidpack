@@ -1,0 +1,10 @@
+{
+  "config": {
+    "biome_temp": "cold",
+    "large_probability": 0.3,
+    "cluster_probability": 0.9
+  },
+  "biomes": "#voidpack:has_structure/no_spawn",
+  "spawn_overrides": {},
+  "type": "minecraft:ocean_ruin"
+}
